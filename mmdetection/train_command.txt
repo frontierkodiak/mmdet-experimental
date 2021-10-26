@@ -1,0 +1,1 @@
+python tools/train.py ~configs/aaa_customs/cascade_rcnn_r101_fpn_1x_coco_bugsNblooms_v1.py
